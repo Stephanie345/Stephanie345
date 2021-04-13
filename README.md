@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- :tada: I’m currently working on the ropository MaratonaDiscover in this semester
 - :rocket: I’m currently learning JavaScript, CSS, HTML, Python-flask, SQLAlchemy
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
