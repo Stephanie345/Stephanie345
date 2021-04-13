@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :tada: I’m currently working on the ropository MaratonaDiscover
 - :rocket: I’m currently learning JavaScript, CSS, HTML, Python-flask, SQLAlchemy
 
